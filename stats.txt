@@ -1,0 +1,8 @@
+CPU utilization was 0.600670.
+DISK1 utilization was 0.209680.
+DISK2 utilization was 0.000000.
+Network utilization was 0.090580.
+Throughput of CPU was was 0.080360.
+Throughput of DISK1 was was 0.027800.
+Throughput of DISK2 was was 0.000000.
+Throughput of Network was was 0.011980.

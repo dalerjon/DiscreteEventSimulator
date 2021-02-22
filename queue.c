@@ -17,6 +17,10 @@ int peek(Node** head)
     return (*head)->data; 
 }
 
+int getPriority(Node** head) {
+    return (*head)->priority;
+}
+
 Node* getNode(Node** head)
 {
     return (*head);

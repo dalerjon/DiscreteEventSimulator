@@ -5,6 +5,7 @@ typedef struct node {
 } Node;
 Node* newNode(int d, int p);
 int peek(Node** head);
+int getPriority(Node** head);
 Node* getNode(Node** head);
 void pop(Node** head);
 void push(Node** head, int d, int p);
